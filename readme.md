@@ -10,12 +10,12 @@ This project analyzes global security incidents between 2015 and 2024 to identif
 * Are resolution times improving?
 
 ## Dataset
-Dataset source: Kaggle 
-https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024/data
+Dataset source: Kaggle  
+https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024/data  
 The dataset contains 3,000 rows, with a time range of 2015-2024.
 
 ## Tools
-Python (pandas, statsmodels, matplotlib);
+Python (pandas, statsmodels, matplotlib);  
 Microsoft Power BI
 
 ## Project workflow
@@ -32,9 +32,9 @@ Microsoft Power BI
 * Resolution times did not significantly improve over the observed period
 
 ## Project structure
-data/ – dataset files
-notebooks/ – Python analysis notebook
-dashboard/ – Power BI dashboard
+data/ – dataset files  
+notebooks/ – Python analysis notebook  
+dashboard/ – Power BI dashboard  
 report/ – final project report
 
 ## Limitations
